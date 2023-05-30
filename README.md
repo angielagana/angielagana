@@ -5,11 +5,12 @@
   - Quantum Computing
   - Math
   - Physics 
-  - Psychology (mental health)
+  - Psychology (Mental Health)
 
 
 ### I’m currently:
-  - Learning Qiskit
+  - Learning Python and Qiskit
+  - Learning HTML, CSS, and JavaScript
   - Becoming a volunteer Emergency Medical Technician
   - Working on THEIA, a 6U CubeSat mission
 
