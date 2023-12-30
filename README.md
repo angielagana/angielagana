@@ -1,16 +1,15 @@
 # 👋 Hi, I’m Angie Lagana
-## I am a student at the University of Maryland, College Park pursuing a degree in Computer Engineering!
+## I am a student at the University of Maryland, College Park pursuing a degree in Electrical Engineering!
 ### I’m interested in:
   - Software Development
-  - Quantum Computing
+  - Embedded Systems
   - Math
   - Physics 
-  - Psychology (Mental Health)
+  - Avionics
 
 
 ### I’m currently:
-  - Learning Python and Qiskit
-  - Learning HTML, CSS, and JavaScript
+  - Creating my own programming language
   - Becoming a volunteer Emergency Medical Technician
   - Working on THEIA, a 6U CubeSat mission
 
