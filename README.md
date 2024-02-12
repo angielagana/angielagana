@@ -7,10 +7,4 @@
   - Physics 
   - Avionics
 
-
-### I’m currently:
-  - Creating my own programming language
-  - Becoming a volunteer Emergency Medical Technician
-  - Working on THEIA, a 6U CubeSat mission
-
 ## You can reach me at alagana@terpmail.umd.edu
